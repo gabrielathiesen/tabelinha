@@ -1,0 +1,13 @@
+table {
+    border: 0,5px white solid;
+    width: 100%;
+  }
+  table th {
+     
+    background-color: yellow;
+    color: orange;
+  }
+  table td {
+    background-color: orange;
+    color:red;
+  }
